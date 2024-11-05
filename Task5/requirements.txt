@@ -1,0 +1,7 @@
+langchain==0.2.11
+langchain_community==0.2.10
+langchain_core==0.2.24
+numpy==2.0.1
+pydantic==2.8.2
+Requests==2.32.3
+torch==2.1.0
